@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @billyz1314
 - 👀 This repository is used to backup learning materials during my learning
-- 🌱 Some tutorial may include for persional use
+- 🌱 Tutorials included only for personal use
 - 💞️ Not for sharing.
